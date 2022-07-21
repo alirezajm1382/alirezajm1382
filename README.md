@@ -1,7 +1,7 @@
 - Hi, I’m Alireza Javadzadeh M. (@alirezajm1382),
 - I’m interested in CS, Programming, Gaming and anything related to Computers
-- I’m currently learning React.js
-- How to reach me @berlinify on either Twitter, Instagram and @AlirezaJavadzadeh on Telegram
+- I’m currently learning Flask and Web3
+- To reach me: @berlinify on Instagram and Telegram
 
 <!---
 alirezajm1382/alirezajm1382 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
