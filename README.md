@@ -1,6 +1,6 @@
 - Hi, I’m Alireza Javadzadeh M. (@alirezajm1382),
 - I’m interested in CS, Programming, Gaming and anything related to Computers
-- I’m currently learning Flask and Web3
+- I’m currently learning React
 - To reach me: @berlinify on Instagram and Telegram
 
 <!---
