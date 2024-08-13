@@ -1,6 +1,5 @@
-## - IT enthusiast
-## - To reach me: @berlinify on Instagram and Telegram
-## - For further information: [LinkedIn](https://www.linkedin.com/in/alirezajavadzadeh)
+``` Still thinking on how i can fill this section!```
+``` Bear with me please 🐻 ```
 
 <!---
 alirezajm1382/alirezajm1382 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
